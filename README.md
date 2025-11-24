@@ -1,16 +1,21 @@
-## Hi there 👋
+## Olá, eu me chamo Pedro Andrade
 
-<!--
-**oPedroDv/oPedroDv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor apaixonado por tecnologia, com foco no constante aprendizado!
+Atualmente estou mais focado em **Python e Django**, automoções e no desenvolvimento web.
+Estou buscando evoluir como profissional e colaborar com projetos que eu ache interessante.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que tenho mais afinidade:
+
+- **Linguagem:** Python, JavaScript (porém gosto muito de Java, pretendo estudar mais sobre)
+- **Back-end:** Django, Flask
+- **Front-edn:** HTML, CSS e React
+- **Ferramentas:** Git, GitHub
+
+---
+
+## Para entar em contato comigo:
+
+- **Email:** opedrodevpy@gmail.com
+- **linkedIn:** https://www.linkedin.com/in/pedro-andrade-892a37397/
