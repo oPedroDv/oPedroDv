@@ -1,21 +1,23 @@
-## Olá, eu me chamo Pedro Andrade
+# Olá, eu me chamo Pedro Andrade
 
-Sou um desenvolvedor apaixonado por tecnologia, com foco no constante aprendizado!
-Atualmente estou mais focado em **Python e Django**, automoções e no desenvolvimento web.
-Estou buscando evoluir como profissional e colaborar com projetos que eu ache interessante.
+Sou um desenvolvedor focado em construir soluções através da tecnologia, com olhar atento para automação e eficiência de processos. Atualmente, dedico meus estudos ao aprofundamento em **Python** e à transição/evolução para o ecossistema **Java**.
 
 ---
 
-## Tecnologias que tenho mais afinidade:
+## Tecnologias e Habilidades
 
-- **Linguagem:** Python, JavaScript (porém gosto muito de Java, pretendo estudar mais sobre)
-- **Back-end:** Django, Flask
-- **Front-edn:** HTML, CSS e React
-- **Ferramentas:** Git, GitHub
+- **Python:** Desenvolvimento de scripts e automações para otimização de tarefas.
+- **Análise de Dados:** Experiência com manipulação e tratamento de dados utilizando a biblioteca **Pandas**.
+- **Java:** Focado no aprendizado constante e desenvolvimento de projetos utilizando Programação Orientada a Objetos (POO).
+- **Versionamento:** Git e GitHub para organização de fluxo de trabalho e colaboração.
 
 ---
 
-## Para entar em contato comigo:
+## 🚀 Objetivos Atuais
 
-- **Email:** opedrodevpy@gmail.com
-- **linkedIn:** https://www.linkedin.com/in/pedro-andrade-892a37397/
+Estou empenhado em desenvolver projetos robustos em Java e em colaborar com iniciativas que desafiem minha lógica de programação e capacidade técnica.
+
+---
+
+### Vamos nos conectar?
+(https://www.linkedin.com/in/pedro-andrade-892a37397/) | opedrodevpy@gmail.com
