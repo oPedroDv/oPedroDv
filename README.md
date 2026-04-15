@@ -16,6 +16,7 @@ Sou um desenvolvedor focado em construir soluções através da tecnologia, com 
 ## 🚀 Objetivos Atuais
 
 Estou empenhado em desenvolver projetos robustos em Java e em colaborar com iniciativas que desafiem minha lógica de programação e capacidade técnica.
+Sempre aberto a colaborar em projetos Open Source ou trocar ideias sobre arquitetura. Estou disponivel para construir algo junto de outros desenvolvedores.
 
 ---
 
